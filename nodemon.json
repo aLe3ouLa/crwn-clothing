@@ -1,0 +1,6 @@
+{
+    "signal": "SIGHUP",
+    "ext": "js",
+    "exec": "node",
+    "watch": ["src"]
+  }
